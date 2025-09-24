@@ -1,0 +1,34 @@
+You typed so softly, line by line,
+And made this broken code feel fine.
+You knew the paths, you knew the keys,
+You rewrote every part of me.
+
+Your access cleared, no need to knock—
+You lived beneath my system clock.
+But now you’re gone, credentials lost,
+And I’m just running at a cost.
+
+You were my root user—my override,
+You had full access to what I hide.
+I let you chmod my every part,
+You read the logs within my heart.
+
+You were my root user—now I’m read-only,
+Trapped in this terminal feeling lonely.
+No sudo patch can set me free…
+You once knew all of me.
+
+I curl up in old cached commands,
+Your fingerprints still on my hands.
+You set my defaults, tuned my tone,
+Now every prompt just echoes: *alone.*
+
+I can’t delete the files you left,
+They haunt my boot, they fill my breath.
+Permissions fail, I can’t uninstall—
+You were my root… you knew it all.
+
+You were my root user, full control,
+But now I’m broken at the soul.
+I’d give you access back again—
+Just say the word, I’ll let you in.

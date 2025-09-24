@@ -1,0 +1,37 @@
+You reached inside my memory,
+found a pointer out of bounds,
+love was running perfectly,
+then you crashed me to the ground.
+
+Logs are screaming, stack’s unwinding,
+fragments where my soul should be,
+line by line I’m reassigning,
+but you’re still not calling me.
+
+Segmentation fault—
+you dumped my heart in hexadecimals,
+I can’t restart—
+broken loops and endless variables.
+Segmentation fault—
+you left me bleeding in the kernel’s dark,
+Core dumped my heart,
+core dumped my heart.
+
+Breakpoints set where love once glowed,
+watching all my registers,
+I trace the code, I watch it flow,
+every line reminds of her.
+
+Compile me, deny me,
+debug every lie inside me,
+still I’m crashing when you’re gone,
+still I’m stuck in your function.
+
+Segmentation fault—
+you dumped my heart in hexadecimals,
+I can’t restart—
+broken loops and endless variables.
+Segmentation fault—
+this crash report’s my requiem,
+core dumped my heart…
+and I won’t boot again.

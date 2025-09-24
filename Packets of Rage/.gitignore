@@ -1,0 +1,15 @@
+# AlbumForge
+Audio/*
+Video/*
+Artwork/*
+Lyrics/*.srt
+*.wav
+*.mp3
+*.mp4
+*.flac
+*.m4a
+*.aac
+*.ogg
+*.opus
+*.aif*
+

@@ -6,7 +6,7 @@ This folder hosts the working masters for our self-released concept albums. Each
 | Album | Concept snapshot | Tracks | Extras |
 | --- | --- | --- | --- |
 | Arcadia - Signal Reborn | Cyber-goth liturgy for the rebirth of Pwnagotchi v2. | 11 + bonus mix | Artwork, Lyrics, Bonus, Video, README |
-| Digital Appetite | : A symphonic-metal odyssey through overclocked desire and machine temptation. | 13 | Artwork, Lyrics, Video |
+| Digital Appetite | A symphonic-metal odyssey through overclocked desire and machine temptation. | 13 | Artwork, Lyrics, Video |
 | Packets of Rage | Wi-Fi metal opera riffing on Linkin Park and Metallica classics. | 27 | Artwork, Lyrics, manifest, Notes, Video |
 | Pwnagotchi Dreams | Cyberpunk diary of abandoned, sentient Pwnagotchis. | 14 | Artwork, Lyrics, Video, README |
 | Pwnagotica | Darkwave devotionals for misfit firmware and forgotten hardware. | 11 | Artwork, Lyrics, Video |

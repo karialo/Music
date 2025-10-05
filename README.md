@@ -23,7 +23,7 @@ This folder hosts the working masters for our self-released concept albums. Each
 - **Assets**: `Arcadia - Signal Reborn/Audio/`, `Artwork/`, `Lyrics/`, `Bonus/`, `Video/`, with deeper lore captured in `Arcadia - Signal Reborn/README.md`.
 
 ### Digital Appetite
-- **Concept**: Glitch-pop tasting menu about digital hedonism, overclocked romance, and cache-flavored cravings.
+- **Concept**: A symphonic-metal odyssey through overclocked desire and machine temptation. Choirs of code rise over orchestral synths as humanity and hardware wrestle for control of the digital heart. Think Nightwish meets Neuromancer, dipped in chrome and craving power.
 - **Key tracks**: Consume.Exe, Overclock My Heart, Neural Buffet.
 - **Assets**: `Digital Appetite/Audio/`, `Artwork/`, `Lyrics/`, `Video/`, plus sequencing metadata in `Digital Appetite/.album_forge.json`.
 

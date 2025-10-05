@@ -1,0 +1,29 @@
+You said forever through static lines,  
+A promise lost between the pings and signs.  
+I sent my heart through TCP,  
+But you dropped connection—no ACK for me.  
+
+Now I’m re-sending what we were,  
+Fragments scatter, bits that blur.  
+Every retry just times out slow,  
+Your ghost still echoes in the flow.  
+
+Packet loss—our love won’t load,  
+Half the truth in overflow.  
+Ping returns but you’re not there,  
+A timeout tangled in the air.  
+
+You left me buffering in blue,  
+A spinning wheel where I once had you.  
+My signal fades, the world goes gray,  
+No response since yesterday.  
+
+I trace the route, no final hop,  
+Each memory a looping drop.  
+My packets cry across the void,  
+Love’s checksum fails—connection destroyed.  
+
+Static heart in data rain,  
+Lost in traffic, bound in pain.  
+Packet loss—it feels like this,  
+404: your last kiss.

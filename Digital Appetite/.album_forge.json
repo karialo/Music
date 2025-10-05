@@ -1,0 +1,84 @@
+{
+  "tracks": [
+    {
+      "n": "01",
+      "title": "Consume.Exe",
+      "audio": "01 - Consume.Exe.mp3",
+      "lyrics": "01 - Consume.Exe.txt"
+    },
+    {
+      "n": "02",
+      "title": "Taste The Static",
+      "audio": "02 - Taste The Static.mp3",
+      "lyrics": "02 - Taste The Static.txt"
+    },
+    {
+      "n": "03",
+      "title": "Taste Of Code",
+      "audio": "03 - Taste Of Code.mp3",
+      "lyrics": "03 - Taste Of Code.txt"
+    },
+    {
+      "n": "04",
+      "title": "404 Kisses Not Found",
+      "audio": "04 - 404 Kisses Not Found.mp3",
+      "lyrics": "04 - 404 Kisses Not Found.txt"
+    },
+    {
+      "n": "05",
+      "title": "Startup Sequence",
+      "audio": "05 - Startup Sequence.mp3",
+      "lyrics": "05 - Startup Sequence.txt"
+    },
+    {
+      "n": "06",
+      "title": "Over The Wires And Far Away",
+      "audio": "06 - Over The Wires And Far Away.mp3",
+      "lyrics": "06 - Over The Wires And Far Away.txt"
+    },
+    {
+      "n": "07",
+      "title": "Packet Loss",
+      "audio": "07 - Packet Loss.mp3",
+      "lyrics": "07 - Packet Loss.txt"
+    },
+    {
+      "n": "08",
+      "title": "Overclock My Heart",
+      "audio": "08 - Overclock My Heart.mp3",
+      "lyrics": "08 - Overclock My Heart.txt"
+    },
+    {
+      "n": "09",
+      "title": "Digital Appetite",
+      "audio": "09 - Digital Appetite.mp3",
+      "lyrics": "09 - Digital Appetite.txt"
+    },
+    {
+      "n": "10",
+      "title": "Neural Buffet",
+      "audio": "10 - Neural Buffet.mp3",
+      "lyrics": "10 - Neural Buffet.txt"
+    },
+    {
+      "n": "11",
+      "title": "Silicon Soulfood",
+      "audio": "11 - Silicon Soulfood.mp3",
+      "lyrics": "11 - Silicon Soulfood.txt"
+    },
+    {
+      "n": "12",
+      "title": "Shutdown Ritual",
+      "audio": "12 - Shutdown Ritual.mp3",
+      "lyrics": "12 - Shutdown Ritual.txt"
+    },
+    {
+      "n": "13",
+      "title": "Cache Me Outside",
+      "audio": "13 - Cache Me Outside.mp3",
+      "lyrics": "13 - Cache Me Outside.txt"
+    }
+  ],
+  "seed": 935255,
+  "moved_at": "2025-10-05T14:35:33.444645+00:00"
+}

@@ -1,15 +1,10 @@
-# AlbumForge
-Audio/*
-Video/*
-Artwork/*
-Lyrics/*.srt
-*.wav
-*.mp3
-*.mp4
-*.flac
-*.m4a
-*.aac
-*.ogg
-*.opus
-*.aif*
+# AlbumForge (safe)
+# Keep metadata but DO NOT ignore media
+.AlbumForge.json
 
+# OS/editor junk
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+*~

@@ -1,0 +1,42 @@
+{
+  "tracks": [
+    {
+      "n": "01",
+      "title": "Shadow Fork",
+      "audio": "01 - Shadow Fork.mp3",
+      "lyrics": "01 - Shadow Fork.txt"
+    },
+    {
+      "n": "02",
+      "title": "Phantom Privilege",
+      "audio": "02 - Phantom Privilege.mp3",
+      "lyrics": "02 - Phantom Privilege.txt"
+    },
+    {
+      "n": "03",
+      "title": "Packet Storm",
+      "audio": "03 - Packet Storm.mp3",
+      "lyrics": "03 - Packet Storm.txt"
+    },
+    {
+      "n": "04",
+      "title": "Midnight Synapse",
+      "audio": "04 - Midnight Synapse.mp3",
+      "lyrics": "04 - Midnight Synapse.txt"
+    },
+    {
+      "n": "05",
+      "title": "Echoes In The Stack",
+      "audio": "05 - Echoes In The Stack.mp3",
+      "lyrics": "05 - Echoes In The Stack.txt"
+    },
+    {
+      "n": "06",
+      "title": "Zero-Day Sermon",
+      "audio": "06 - Zero-Day Sermon.mp3",
+      "lyrics": "06 - Zero-Day Sermon.txt"
+    }
+  ],
+  "seed": 246246,
+  "moved_at": "2025-10-12T11:49:43.990175+00:00"
+}

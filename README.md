@@ -68,3 +68,4 @@ This folder hosts the working masters for our self-released concept albums. Each
 - Artwork contains cover and per-track visuals sized for streaming thumbnails and socials.
 - Video folders hold promo loops and visualizers tied to the same track ordering.
 - Notes folders are safe dumping grounds for production ideas, TODOs, and lore expansions when needed.
+ 
